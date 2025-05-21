@@ -1,4 +1,4 @@
-# MCP Server Basic Example
+# MCP Weather Alert System
 
 This is a mini project of a Model Context Protocol (MCP) server implementation that demonstrates core functionality including tools and resources.
 
